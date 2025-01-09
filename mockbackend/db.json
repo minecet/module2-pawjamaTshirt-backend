@@ -24,8 +24,8 @@
       "americanbulldog": 6,
       "americanbully": 9,
       "americancockerspaniel": 1,
-	  "americaneskimo": 1,
-	  "americanfoxhound":1
+      "americaneskimo": 1,
+      "americanfoxhound": 1
     }
   ],
   "Cat": [
@@ -34,47 +34,10 @@
       "balinese": 5
     }
   ],
-  "basket": [
-    {
-      "personName": "mine",
-      "petName": "lucy",
-      "selectedColor": "black",
-      "selectedIcon": "src/assets/abyssinian/abyssinian1.png",
-      "selectedHairstyle": "hairstyle2.png",
-      "price": 25,
-      "id": 1
-    },
-    {
-      "personName": "mine",
-      "petName": "lucy",
-      "selectedColor": "black",
-      "selectedIcon": "src/assets/abyssinian/abyssinian1.png",
-      "selectedHairstyle": "hairstyle2.png",
-      "price": 25,
-      "id": 2
-    },
-    {
-      "personName": "mine",
-      "petName": "lucy",
-      "selectedColor": "black",
-      "selectedIcon": "src/assets/abyssinian/abyssinian1.png",
-      "selectedHairstyle": "hairstyle2.png",
-      "price": 25,
-      "id": 3
-    },
-    {
-      "personName": "mine",
-      "petName": "lucy",
-      "selectedColor": "white",
-      "selectedIcon": "src/assets/americanbully/americanbully3.png",
-      "selectedHairstyle": "hairstyle2.png",
-      "price": 30,
-      "id": 4
-    }
-  ],
+  "basket": [],
   "totalPrice": [
     {
-      "value": 105,
+      "value": 0,
       "id": 1
     }
   ]
