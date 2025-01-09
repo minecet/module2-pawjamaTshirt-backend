@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "icon": "woman.png",
+      "animal": "cat",
+      "animalSpecies": "abyssinian",
+      "personIcon": "cat.png",
+      "personName": "Mine",
+      "animalName": "Latte",
+      "tshirtTemplate": "initialTemplate.png",
+      "onPersonNameChange": "onPersonNameChange",
+      "onAnimalNameChange": "onAnimalNameChange",
+      "onAnimalSpeciesChange": "onAnimalSpeciesChange"
+    }
+  ],
+  "Dog": [
+    {
+      "affenpinsher": 1,
+      "afganhound": 2
+    }
+  ],
+  "Cat": [
+    {
+      "abyssinian": 1,
+      "balinese": 5
+    }
+  ],
+  "basket": [
+    {
+      "personName": "mine",
+      "petName": "lucy",
+      "selectedColor": "white",
+      "selectedIcon": "src/assets/afganhound/afganhound1.png",
+      "selectedHairstyle": "hairstyle1.png",
+      "id": 1
+    }
+  ]
+}
