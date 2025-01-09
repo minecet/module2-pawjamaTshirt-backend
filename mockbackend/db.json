@@ -17,7 +17,15 @@
   "Dog": [
     {
       "affenpinsher": 1,
-      "afganhound": 2
+      "afganhound": 2,
+      "airedaleterrier": 5,
+      "akita": 5,
+      "alaskanmalamute": 2,
+      "americanbulldog": 6,
+      "americanbully": 9,
+      "americancockerspaniel": 1,
+	  "americaneskimo": 1,
+	  "americanfoxhound":1
     }
   ],
   "Cat": [
@@ -30,16 +38,43 @@
     {
       "personName": "mine",
       "petName": "lucy",
-      "selectedColor": "white",
-      "selectedIcon": "src/assets/affenpinsher/affenpinsher1.png",
-      "selectedHairstyle": "hairstyle1.png",
-      "price": 30,
+      "selectedColor": "black",
+      "selectedIcon": "src/assets/abyssinian/abyssinian1.png",
+      "selectedHairstyle": "hairstyle2.png",
+      "price": 25,
       "id": 1
+    },
+    {
+      "personName": "mine",
+      "petName": "lucy",
+      "selectedColor": "black",
+      "selectedIcon": "src/assets/abyssinian/abyssinian1.png",
+      "selectedHairstyle": "hairstyle2.png",
+      "price": 25,
+      "id": 2
+    },
+    {
+      "personName": "mine",
+      "petName": "lucy",
+      "selectedColor": "black",
+      "selectedIcon": "src/assets/abyssinian/abyssinian1.png",
+      "selectedHairstyle": "hairstyle2.png",
+      "price": 25,
+      "id": 3
+    },
+    {
+      "personName": "mine",
+      "petName": "lucy",
+      "selectedColor": "white",
+      "selectedIcon": "src/assets/americanbully/americanbully3.png",
+      "selectedHairstyle": "hairstyle2.png",
+      "price": 30,
+      "id": 4
     }
   ],
   "totalPrice": [
     {
-      "value": 0,
+      "value": 105,
       "id": 1
     }
   ]
