@@ -7,3 +7,9 @@ The backend is a json-server, using the Ironback CLI.
 - POST and DELETE basket/:productid renders each custom designed tshirt product with the assigned unique id
 - GET /Dogs renders the dog species, whose image icons are held in the frontend assets
 - GET /Cats renders the cat species, whose image icons are held in the frontend assets
+<br>
+- Netlify
+[Netlify](https://graceful-florentine-2d83e8.netlify.app/) 
+<br>
+- Render deployment
+[Render]([[https://graceful-florentine-2d83e8.netlify.app/](https://module2-pawjamatshirt-backend.onrender.com)]) 
