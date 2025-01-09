@@ -26,8 +26,21 @@
       "balinese": 5
     }
   ],
-  "basket": [],
+  "basket": [
+    {
+      "personName": "mine",
+      "petName": "lucy",
+      "selectedColor": "white",
+      "selectedIcon": "src/assets/affenpinsher/affenpinsher1.png",
+      "selectedHairstyle": "hairstyle1.png",
+      "price": 30,
+      "id": 1
+    }
+  ],
   "totalPrice": [
-
+    {
+      "value": 0,
+      "id": 1
+    }
   ]
 }
