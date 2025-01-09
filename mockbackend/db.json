@@ -26,14 +26,8 @@
       "balinese": 5
     }
   ],
-  "basket": [
-    {
-      "personName": "mine",
-      "petName": "lucy",
-      "selectedColor": "white",
-      "selectedIcon": "src/assets/afganhound/afganhound1.png",
-      "selectedHairstyle": "hairstyle1.png",
-      "id": 1
-    }
+  "basket": [],
+  "totalPrice": [
+
   ]
 }
