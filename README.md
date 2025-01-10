@@ -12,4 +12,4 @@ The backend is a json-server, using the Ironback CLI.
 [Netlify](https://graceful-florentine-2d83e8.netlify.app/) 
 <br>
 - Render deployment
-[Render]([[https://graceful-florentine-2d83e8.netlify.app/](https://module2-pawjamatshirt-backend.onrender.com)]) 
+[Render]([https://module2-pawjamatshirt-backend.onrender.com]) 
